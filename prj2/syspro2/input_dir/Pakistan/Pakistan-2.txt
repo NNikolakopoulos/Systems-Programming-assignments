@@ -1,0 +1,7 @@
+1619 EMkrxkAFQ MvrMqvDomL Pakistan 113 SARS-COV1 NO
+3963 jNXDvuovtIbQ FdcJadZ Pakistan 73 EVD NO
+8869 FGSBcsqUlmK JJWnagonIXhG Pakistan 93 H1N1 NO
+0229 zcl IGVYx Pakistan 76 H1N1 NO
+0972 HMGnPM KMXAik Pakistan 30 H1N1 NO
+6904 Tvptw FqyCTQpNhHpn Pakistan 72 COVID-19 YES 16-02-2020
+3963 jNXDvuovtIbQ FdcJadZ Pakistan 73 SARS-COV1 YES 14-02-2021

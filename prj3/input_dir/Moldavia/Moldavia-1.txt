@@ -1,0 +1,6 @@
+7015 jrpxts ZPVgrQnyCjWf Moldavia 27 H1N1 NO
+6228 oREtmk UtokXTpAoFKQ Moldavia 119 SARS-COV1 NO
+4334 TrosAsuKMUo zOjCJlddes Moldavia 9 H1N1 NO
+3432 aINuVMv juwaOCyPdsjW Moldavia 79 H1N1 YES 06-10-2021
+3399 BOqZBavDG eegBlezcdPFL Moldavia 81 EVD YES 22-03-2021
+9067 NhyqVKkTR nvSlaTVCepyL Moldavia 36 SARS-COV1 NO

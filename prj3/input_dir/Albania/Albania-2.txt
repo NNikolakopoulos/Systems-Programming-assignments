@@ -1,0 +1,9 @@
+7836 xDbYZYXkZFx lWeFXdn Albania 46 H1N1 YES 11-10-2021
+7836 xDbYZYXkZFx lWeFXdn Albania 46 COVID-19 NO
+7898 dmM eIhRQ Albania 11 SARS-COV1 NO
+5044 hitfMvIX wxNGUHcsM Albania 97 H1N1 NO
+0900 glaraZzvz KcmNkPsoMDrA Albania 7 H1N1 YES 22-07-2018
+9702 ysckyRcASofE JBmOlfj Albania 101 EVD NO
+0480 oTspOmmPbekW alZvCsa Albania 69 SARS-COV1 NO
+0273 RTsBkXBGe agLywnN Albania 48 H1N1 NO
+5044 hitfMvIX wxNGUHcsM Albania 97 EVD NO
